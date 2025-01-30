@@ -6,26 +6,29 @@ This repository will be about water.
 
 Raw Notes
 
-* Air quality.
 * Agencies.
+* Air quality.
+* Brine
 * Computer chips.
 * Constitution.
-* Developers.
 * Dams.
+* Developers.
 * Droughts.
+* Farming
 * Fire hydrants.
 * Gold Rush.
 * Government agencies (count).
 * Ground water.
 * Humboldt Bay cleaned up.
+* Hydrants
 * Irvine trying to clean.
 * John Steinbeck.
 * Law suits.
 * Low flush toilets.
 * Mercury leak.
 * Mexicans.
-* North vs South.
 * Nash Equilibrium.
+* North vs South.
 * Orange County = 100% recycled water.
 * Owen's Lake.
 * Owens Valley.
@@ -40,3 +43,4 @@ Raw Notes
 * Smelt.
 * Spanish.
 * Water distribution 
+* Wetlands
